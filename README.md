@@ -1,5 +1,3 @@
-
-> Editing this section in the inspector.
 Hi, I'm Aya Niati. 
 <p align="center">
   <picture>
