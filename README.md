@@ -34,8 +34,8 @@ Analytical **Full-Stack Developer** with a background in Computer Science, speci
 ### 📈 GitHub Status & Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aya-nt&show_icons=true&theme=tokyonight&hide_border=false&cache_bust=1" width="49%" alt="Ayaterrahmane's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aya-nt&layout=compact&theme=tokyonight&hide_border=false&cache_bust=1" width="45%" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aya-nt&show_icons=true&theme=tokyonight&hide_border=false" width="49%" alt="Ayaterrahmane's GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aya-nt&layout=compact&theme=tokyonight&hide_border=false" width="45%" alt="Top Languages" />
 </p>
 
 ---
