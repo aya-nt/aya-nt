@@ -16,19 +16,12 @@ Analytical **Full-Stack Developer** with a background in Computer Science, speci
 - 💬 Ask me about: **Frontend architecture, mobile optimization, or RESTful API design**
 
 ---
-
 ### 📊 GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=aya-nt&show_icons=true&theme=synthwave" alt="Ayaterrahmane's GitHub Stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aya-nt&layout=compact&theme=synthwave" alt="Most Used Languages" />
-  </a>
-</div>
-
-<br clear="all" />
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aya-nt&show_icons=true&theme=tokyonight" alt="Ayaterrahmane's GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aya-nt&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+</p>
 
 ---
 
@@ -60,8 +53,7 @@ Analytical **Full-Stack Developer** with a background in Computer Science, speci
 
 ### 🌐 Connect With Me
 
-* 💼 **Portfolio:** [aya-niati.vercel.app](https://aya-niati.vercel.app/)[cite: 1]
-* 📧 **Email:** [ayaterrahmane.niati@gmail.com](mailto:ayaterrahmane.niati@gmail.com)[cite: 1]
-* 📍 **Location:** Algiers, Algeria[cite: 1]
-
+- 💼 **Portfolio:** [aya-niati.vercel.app](https://aya-niati.vercel.app/)
+- 📧 **Email:** [ayaterrahmane.niati@gmail.com](mailto:ayaterrahmane.niati@gmail.com)
+- 📍 **Location:** Algiers, Algeria
 
