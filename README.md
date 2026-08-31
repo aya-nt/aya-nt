@@ -19,9 +19,9 @@ Analytical **Full-Stack Developer** with a background in Computer Science, speci
 
 ### 📊 GitHub Stats & Activity
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=aya-nt&theme=tokyonight&margin-w=15&row=1)
+![GitHub Trophies](https://github-profile-trophies.vercel.app/?username=aya-nt&theme=tokyonight&margin-w=15&row=1)
 
-![Ayaterrahmane's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aya-nt&theme=tokyonight)
+![Ayaterrahmane's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aya-nt&theme=react-dark)
 
 ---
 
@@ -56,4 +56,3 @@ Analytical **Full-Stack Developer** with a background in Computer Science, speci
 - 💼 **Portfolio:** [aya-niati.vercel.app](https://aya-niati.vercel.app/)
 - 📧 **Email:** [ayaterrahmane.niati@gmail.com](mailto:ayaterrahmane.niati@gmail.com)
 - 📍 **Location:** Algiers, Algeria
-
