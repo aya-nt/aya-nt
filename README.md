@@ -17,11 +17,14 @@ Analytical **Full-Stack Developer** with a background in Computer Science, speci
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity & Achievements
 
 <p align="center">
-  <img width="49%" src="https://github-readme-profile-alpha.vercel.app/api?username=aya-nt&show_icons=true&theme=tokyonight" alt="Ayaterrahmane's GitHub Stats" />
-  <img width="49%" src="https://github-readme-profile-alpha.vercel.app/api/top-langs/?username=aya-nt&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aya-nt&theme=tokyonight&margin-w=15&row=1" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aya-nt&theme=tokyonight" alt="Ayaterrahmane's GitHub Activity Graph" />
 </p>
 
 ---
